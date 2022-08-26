@@ -6,7 +6,7 @@
 # ccflags-y += -DCONFIG_XRADIO_WAPI_SUPPORT
 
 # Kernel part
-
+CONFIG_WLAN_VENDOR_XRADIO := m
 obj-$(CONFIG_WLAN_VENDOR_XRADIO) += xradio_wlan.o
 
 xradio_wlan-objs := \
