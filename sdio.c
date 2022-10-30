@@ -14,7 +14,7 @@
 #include <linux/mmc/sdio_func.h>
 #include <linux/mmc/card.h>
 #include <linux/mmc/sdio.h>
-#include <asm/mach-types.h>
+//#include <asm/mach-types.h>
 #include <linux/of.h>
 #include <linux/of_irq.h>
 #include <linux/interrupt.h>
